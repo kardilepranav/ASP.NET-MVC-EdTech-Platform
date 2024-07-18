@@ -1,0 +1,1525 @@
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\appsettings.Development.json
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\appsettings.json
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Edtech.staticwebassets.runtime.json
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Edtech.exe
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Edtech.deps.json
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Edtech.runtimeconfig.json
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Edtech.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Edtech.pdb
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Azure.Core.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Azure.Identity.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Humanizer.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\MessagePack.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.Build.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\NuGet.Common.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\System.CodeDom.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\System.Memory.Data.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\System.Text.Json.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\obj\Debug\net6.0\Edtech.csproj.AssemblyReference.cache
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\obj\Debug\net6.0\Edtech.GeneratedMSBuildEditorConfig.editorconfig
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\obj\Debug\net6.0\Edtech.AssemblyInfoInputs.cache
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\obj\Debug\net6.0\Edtech.AssemblyInfo.cs
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\obj\Debug\net6.0\Edtech.csproj.CoreCompileInputs.cache
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\obj\Debug\net6.0\Edtech.MvcApplicationPartsAssemblyInfo.cs
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\obj\Debug\net6.0\Edtech.MvcApplicationPartsAssemblyInfo.cache
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\obj\Debug\net6.0\Edtech.RazorAssemblyInfo.cache
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\obj\Debug\net6.0\Edtech.RazorAssemblyInfo.cs
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\obj\Debug\net6.0\staticwebassets.build.json
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\obj\Debug\net6.0\staticwebassets.development.json
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\obj\Debug\net6.0\staticwebassets\msbuild.Edtech.Microsoft.AspNetCore.StaticWebAssets.props
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\obj\Debug\net6.0\staticwebassets\msbuild.build.Edtech.props
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Edtech.props
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Edtech.props
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\obj\Debug\net6.0\staticwebassets.pack.json
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\obj\Debug\net6.0\scopedcss\bundle\Edtech.styles.css
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\obj\Debug\net6.0\scopedcss\projectbundle\Edtech.bundle.scp.css
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\obj\Debug\net6.0\Edtech.csproj.CopyComplete
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\obj\Debug\net6.0\Edtech.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\obj\Debug\net6.0\refint\Edtech.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\obj\Debug\net6.0\Edtech.pdb
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\obj\Debug\net6.0\Edtech.genruntimeconfig.cache
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\obj\Debug\net6.0\ref\Edtech.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\CDAC JUHU NOTES\Dot NET\Day wise program\Edtech\Edtech\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\appsettings.json
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Edtech.staticwebassets.runtime.json
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Edtech.exe
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Edtech.deps.json
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Edtech.runtimeconfig.json
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Edtech.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Edtech.pdb
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Humanizer.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\MessagePack.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\obj\Debug\net6.0\Edtech.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\obj\Debug\net6.0\Edtech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\obj\Debug\net6.0\Edtech.AssemblyInfoInputs.cache
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\obj\Debug\net6.0\Edtech.AssemblyInfo.cs
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\obj\Debug\net6.0\Edtech.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\obj\Debug\net6.0\Edtech.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\obj\Debug\net6.0\Edtech.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\obj\Debug\net6.0\Edtech.RazorAssemblyInfo.cache
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\obj\Debug\net6.0\Edtech.RazorAssemblyInfo.cs
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\obj\Debug\net6.0\Edtech.sourcelink.json
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\obj\Debug\net6.0\staticwebassets\msbuild.Edtech.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\obj\Debug\net6.0\staticwebassets\msbuild.build.Edtech.props
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Edtech.props
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Edtech.props
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\obj\Debug\net6.0\scopedcss\bundle\Edtech.styles.css
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\obj\Debug\net6.0\scopedcss\projectbundle\Edtech.bundle.scp.css
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\obj\Debug\net6.0\Edtech.csproj.CopyComplete
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\obj\Debug\net6.0\Edtech.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\obj\Debug\net6.0\refint\Edtech.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\obj\Debug\net6.0\Edtech.pdb
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\obj\Debug\net6.0\Edtech.genruntimeconfig.cache
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\obj\Debug\net6.0\ref\Edtech.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\obj\Debug\net6.0\scopedcss\Views\Shared\_TeacherLayout.cshtml.rz.scp.css
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\obj\Debug\net6.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project\EdtechDotNet\Edtech\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\appsettings.json
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Edtech.staticwebassets.runtime.json
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Edtech.exe
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Edtech.deps.json
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Edtech.runtimeconfig.json
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Edtech.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Edtech.pdb
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Humanizer.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\MessagePack.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\obj\Debug\net6.0\Edtech.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\obj\Debug\net6.0\Edtech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\obj\Debug\net6.0\Edtech.AssemblyInfoInputs.cache
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\obj\Debug\net6.0\Edtech.AssemblyInfo.cs
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\obj\Debug\net6.0\Edtech.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\obj\Debug\net6.0\Edtech.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\obj\Debug\net6.0\Edtech.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\obj\Debug\net6.0\Edtech.RazorAssemblyInfo.cache
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\obj\Debug\net6.0\Edtech.RazorAssemblyInfo.cs
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\obj\Debug\net6.0\Edtech.sourcelink.json
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\obj\Debug\net6.0\staticwebassets\msbuild.Edtech.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\obj\Debug\net6.0\staticwebassets\msbuild.build.Edtech.props
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Edtech.props
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Edtech.props
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\obj\Debug\net6.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\obj\Debug\net6.0\scopedcss\Views\Shared\_TeacherLayout.cshtml.rz.scp.css
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\obj\Debug\net6.0\scopedcss\bundle\Edtech.styles.css
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\obj\Debug\net6.0\scopedcss\projectbundle\Edtech.bundle.scp.css
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\obj\Debug\net6.0\Edtech.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\obj\Debug\net6.0\refint\Edtech.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\obj\Debug\net6.0\Edtech.pdb
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\obj\Debug\net6.0\Edtech.genruntimeconfig.cache
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\obj\Debug\net6.0\ref\Edtech.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\obj\Debug\net6.0\Edtech.csproj.Up2Date
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdtechDotNet\Edtech\bin\Debug\net6.0\RazorPay Core.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\obj\Debug\net6.0\Edtech.csproj.AssemblyReference.cache
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\obj\Debug\net6.0\Edtech.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\obj\Debug\net6.0\Edtech.AssemblyInfoInputs.cache
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\obj\Debug\net6.0\Edtech.AssemblyInfo.cs
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\obj\Debug\net6.0\Edtech.csproj.CoreCompileInputs.cache
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\obj\Debug\net6.0\Edtech.MvcApplicationPartsAssemblyInfo.cs
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\obj\Debug\net6.0\Edtech.MvcApplicationPartsAssemblyInfo.cache
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\obj\Debug\net6.0\Edtech.RazorAssemblyInfo.cache
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\obj\Debug\net6.0\Edtech.RazorAssemblyInfo.cs
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\obj\Debug\net6.0\Edtech.sourcelink.json
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\obj\Debug\net6.0\Edtech.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\obj\Debug\net6.0\refint\Edtech.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\obj\Debug\net6.0\Edtech.pdb
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\appsettings.Development.json
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\appsettings.json
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Edtech.staticwebassets.runtime.json
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Edtech.exe
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Edtech.deps.json
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Edtech.runtimeconfig.json
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Edtech.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Edtech.pdb
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Azure.Core.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Azure.Identity.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Humanizer.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\MessagePack.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\MessagePack.Annotations.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.Build.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Mono.TextTemplating.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\Newtonsoft.Json.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\NuGet.Common.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\NuGet.Configuration.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\NuGet.Frameworks.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\NuGet.LibraryModel.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\NuGet.Packaging.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\NuGet.ProjectModel.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\NuGet.Protocol.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\NuGet.Versioning.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\RazorPay Core.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\System.CodeDom.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\System.Composition.Convention.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\System.Composition.Hosting.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\System.Composition.Runtime.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\System.Composition.TypedParts.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\System.Memory.Data.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\System.Text.Json.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\af\Humanizer.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\ar\Humanizer.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\az\Humanizer.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\bg\Humanizer.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\cs\Humanizer.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\da\Humanizer.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\de\Humanizer.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\el\Humanizer.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\es\Humanizer.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\fa\Humanizer.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\fr\Humanizer.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\he\Humanizer.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\hr\Humanizer.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\hu\Humanizer.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\hy\Humanizer.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\id\Humanizer.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\is\Humanizer.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\it\Humanizer.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\ja\Humanizer.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\ku\Humanizer.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\lv\Humanizer.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\mt\Humanizer.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\nb\Humanizer.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\nl\Humanizer.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\pl\Humanizer.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\pt\Humanizer.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\ro\Humanizer.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\ru\Humanizer.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\sk\Humanizer.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\sl\Humanizer.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\sr\Humanizer.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\sv\Humanizer.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\tr\Humanizer.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\uk\Humanizer.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\vi\Humanizer.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\obj\Debug\net6.0\staticwebassets.build.json
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\obj\Debug\net6.0\staticwebassets.development.json
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\obj\Debug\net6.0\staticwebassets\msbuild.Edtech.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\obj\Debug\net6.0\staticwebassets\msbuild.build.Edtech.props
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Edtech.props
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Edtech.props
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\obj\Debug\net6.0\staticwebassets.pack.json
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\obj\Debug\net6.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\obj\Debug\net6.0\scopedcss\Views\Shared\_TeacherLayout.cshtml.rz.scp.css
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\obj\Debug\net6.0\scopedcss\bundle\Edtech.styles.css
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\obj\Debug\net6.0\scopedcss\projectbundle\Edtech.bundle.scp.css
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\obj\Debug\net6.0\Edtech.csproj.CopyComplete
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\obj\Debug\net6.0\Edtech.genruntimeconfig.cache
+G:\Projects\EdTech Application\Final Project Dot Net\EdTech_C-\Edtech\obj\Debug\net6.0\ref\Edtech.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\appsettings.json
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Edtech.staticwebassets.runtime.json
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Edtech.exe
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Edtech.deps.json
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Edtech.runtimeconfig.json
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Edtech.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Edtech.pdb
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Humanizer.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\MessagePack.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\RazorPay Core.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\obj\Debug\net6.0\Edtech.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\obj\Debug\net6.0\Edtech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\obj\Debug\net6.0\Edtech.AssemblyInfoInputs.cache
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\obj\Debug\net6.0\Edtech.AssemblyInfo.cs
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\obj\Debug\net6.0\Edtech.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\obj\Debug\net6.0\Edtech.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\obj\Debug\net6.0\Edtech.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\obj\Debug\net6.0\Edtech.RazorAssemblyInfo.cache
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\obj\Debug\net6.0\Edtech.RazorAssemblyInfo.cs
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\obj\Debug\net6.0\Edtech.sourcelink.json
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\obj\Debug\net6.0\staticwebassets\msbuild.Edtech.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\obj\Debug\net6.0\staticwebassets\msbuild.build.Edtech.props
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Edtech.props
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Edtech.props
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\obj\Debug\net6.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\obj\Debug\net6.0\scopedcss\Views\Shared\_TeacherLayout.cshtml.rz.scp.css
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\obj\Debug\net6.0\scopedcss\bundle\Edtech.styles.css
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\obj\Debug\net6.0\scopedcss\projectbundle\Edtech.bundle.scp.css
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\obj\Debug\net6.0\Edtech.csproj.Up2Date
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\obj\Debug\net6.0\Edtech.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\obj\Debug\net6.0\refint\Edtech.dll
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\obj\Debug\net6.0\Edtech.pdb
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\obj\Debug\net6.0\Edtech.genruntimeconfig.cache
+C:\Users\prati\OneDrive\Desktop\C-DAC\Net\Project Final\EdTech\EdTech_Platform\Edtech\obj\Debug\net6.0\ref\Edtech.dll

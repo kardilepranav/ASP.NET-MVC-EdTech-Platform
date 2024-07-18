@@ -1,0 +1,118 @@
+﻿@model Edtech.DTOs.StudentImage
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<br />
+<h2>Add Course</h2>
+<style>
+    .full-width-btn {
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+</style>
+<hr />
+<div class="container">
+    <!-- Add a container to center and provide margin -->
+
+        <form asp-action="Create" enctype="multipart/form-data" class="row mt-4">
+        <!-- Use the mt-4 class to add margin-top -->
+        <div class="col-md-6">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="CourseTitle" class="control-label"></label>
+                <input asp-for="CourseTitle" class="form-control" />
+                <span asp-validation-for="CourseTitle" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="InstructorName" class="control-label"></label>
+                <input asp-for="InstructorName" class="form-control" />
+                <span asp-validation-for="InstructorName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <input asp-for="Description" class="form-control" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Duration" class="control-label"></label>
+                <input asp-for="Duration" class="form-control" />
+                <span asp-validation-for="Duration" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Price" class="control-label"></label>
+                <input asp-for="Price" class="form-control" />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+
+        </div>
+        <div class="col-md-6">
+
+            <div class="form-group">
+                <label asp-for="ProfileImage" class="control-label"></label>
+                <input asp-for="ProfileImage" class="form-control" />
+                <span asp-validation-for="ProfileImage" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label for="NumberOfVideos" class="control-label">Number of Videos</label>
+                <select id="NumberOfVideos" class="form-control">
+                    <option value="0">Select Number of Videos</option>
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                </select>
+            </div>
+
+            <div id="videoUploadFields"></div>
+
+        </div>
+        <div class="form-group">
+            <br />
+            <input type="submit" value="Create" class="btn btn-primary full-width-btn" />
+        </div>
+        <div class="form-group">
+            <a asp-action="Index">Back to List</a>
+        </div>
+    </form>
+</div>
+
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.12/jquery.validate.unobtrusive.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $('#NumberOfVideos').change(function () {
+                var numVideos = parseInt($(this).val());
+                var videoUploadFields = $('#videoUploadFields');
+                videoUploadFields.empty();
+                for (var i = 1; i <= numVideos; i++) {
+                    videoUploadFields.append(
+                        '<div class="form-group">' +
+                        '<label for="ProfileVideo' + i + '" class="control-label">Profile Video ' + i + '</label>' +
+                        '<input type="file" name="ProfileVideo' + i + '" class="form-control" />' +
+                        '<input type="hidden" name="ProfileVideoPath' + i + '" value="default/path' + i + '" />' +
+                        '</div>'
+                    );
+                }
+            });
+
+            // Validate the form
+            $('form').submit(function () {
+                if ($(this).valid()) {
+                    // If the form is valid, submit it
+                    return true;
+                }
+                // If the form is not valid, prevent submission
+                return false;
+            });
+        });
+    </script>
+}

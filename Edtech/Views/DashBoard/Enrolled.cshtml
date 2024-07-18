@@ -1,0 +1,528 @@
+﻿@* @model IEnumerable<Edtech.Models.Student2> *@
+
+@model Edtech.Models.Student2
+
+@{
+    ViewData["Title"] = "Course Dashboard";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - EdTech Application</title>
+    <link rel="stylesheet" href="../lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="../css/site.css" asp-append-version="true" />
+
+    <!-- Add your custom stylesheets here -->
+    <style>
+        /* Custom Styles */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+        }
+
+        .container-fluid {
+            margin-top: 50px;
+        }
+
+        .row {
+            height: 100%;
+        }
+
+        .video-main {
+            position: relative;
+            padding-bottom: 56.25%; /* 16:9 aspect ratio */
+            height: 0;
+            overflow: hidden;
+        }
+
+            .video-main video {
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+            }
+
+        .sidebar {
+            background-color: #f0f0f0;
+            padding: 20px;
+        }
+
+            .sidebar .video-list-item {
+                margin-bottom: 10px;
+                cursor: pointer; /* Add cursor pointer for clickable items */
+            }
+
+        .card {
+            border: none;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .card-body {
+            padding: 20px;
+        }
+
+        .sidebar-video {
+            display: flex;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+
+            .sidebar-video video {
+                pointer-events: none; /* Make the video readonly */
+                width: 100px; /* Adjust width as needed */
+                margin-right: 10px;
+            }
+
+            .sidebar-video span {
+                font-weight: bold;
+                font-size: 14px;
+            }
+
+
+
+            /********************/
+
+
+        .wrapper {
+            max-width: 75%;
+            margin: auto;
+        }
+
+            .wrapper > p,
+            .wrapper > h1 {
+                margin: 1.5rem 0;
+                text-align: center;
+            }
+
+            .wrapper > h1 {
+                letter-spacing: 3px;
+            }
+
+        .accordion {
+            background-color: white;
+            color: rgba(0, 0, 0, 0.8);
+            cursor: pointer;
+            font-size: 1.2rem;
+            width: 100%;
+            padding: 2rem 2.5rem;
+            border: none;
+            outline: none;
+            transition: 0.4s;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-weight: bold;
+        }
+
+            .accordion i {
+                font-size: 1.6rem;
+            }
+
+            .active,
+            .accordion:hover {
+                background-color: #f1f7f5;
+            }
+
+        .pannel {
+            padding: 0 2rem 2.5rem 2rem;
+            background-color: white;
+            overflow: hidden;
+            background-color: #f1f7f5;
+            display: none;
+        }
+
+            .pannel p {
+                color: rgba(0, 0, 0, 0.7);
+                font-size: 1.2rem;
+                line-height: 1.4;
+            }
+
+        .faq {
+            border: 1px solid rgba(0, 0, 0, 0.2);
+            margin: 10px 0;
+        }
+
+            .faq.active {
+                border: none;
+            }
+
+
+    </style>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.0/css/all.min.css" />
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"
+          integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w=="
+          crossorigin="anonymous"
+          referrerpolicy="no-referrer" />
+
+</head>
+<body>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-8">
+                <div class="card">
+                    <div class="card-body">
+                        <!-- Main Video -->
+                        <div class="video-main mb-4">
+                            <video id="mainVideo" controls autoplay>
+                                <source src="~/video/@Model.ProfileVideo1" type="video/mp4">
+                                Your browser does not support the video tag.
+                            </video>
+                        </div>
+                        <h2>Course Information</h2>
+                        <p><strong>Title:</strong> @Model.CourseTitle</p>
+                        <p><strong>Instructor:</strong> @Model.InstructorName</p>
+                        <p><strong>Description:</strong> @Model.Description</p>
+                        <p><strong>Duration:</strong> @Model.Duration</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <!-- Sidebar Video List -->
+                <div class="sidebar" id="sidebarVideos">
+                    <h3>Course Content</h3>
+                    <!-- Additional Videos (if any) -->
+                    <div class="sidebar-video" data-video-url="~/video/@Model.ProfileVideo1">
+                        
+                        <video class="sidebar-video" controls muted>
+                            <source src="~/video/@Model.ProfileVideo1" type="video/mp4">
+                            Your browser does not support the video tag.
+                        </video>
+                        <span> 1. @Model.ProfileVideo1</span>
+                    </div>
+                    @if (!string.IsNullOrEmpty(Model.ProfileVideo2) && Model.ProfileVideo2 != "Empty_Content")
+                    {
+                        <div class="sidebar-video" data-video-url="~/video/@Model.ProfileVideo2">
+                           
+                            <video class="sidebar-video" controls muted>
+                                <source src="~/video/@Model.ProfileVideo2" type="video/mp4">
+                                Your browser does not support the video tag.
+                            </video>
+                            <span> 2. @Model.ProfileVideo2</span>
+                        </div>
+                    }
+                    @if (!string.IsNullOrEmpty(Model.ProfileVideo3) && Model.ProfileVideo3 != "Empty_Content")
+                    {
+                        <div class="sidebar-video" data-video-url="~/video/@Model.ProfileVideo3">
+                           
+                            <video class="sidebar-video" controls muted>
+                                <source src="~/video/@Model.ProfileVideo3" type="video/mp4">
+                                Your browser does not support the video tag.
+                            </video>
+                            <span> 3. @Model.ProfileVideo3</span>
+                        </div>
+                    }
+                    @if (!string.IsNullOrEmpty(Model.ProfileVideo4) && Model.ProfileVideo4 != "Empty_Content")
+                    {
+                        <div class="sidebar-video" data-video-url="~/video/@Model.ProfileVideo4">
+
+                            <video class="sidebar-video" controls muted>
+                                <source src="~/video/@Model.ProfileVideo4" type="video/mp4">
+                                Your browser does not support the video tag.
+                            </video>
+                            <span> 4. @Model.ProfileVideo4</span>
+                        </div>
+                    }
+                    @if (!string.IsNullOrEmpty(Model.ProfileVideo5) && Model.ProfileVideo5 != "Empty_Content")
+                    {
+                        <div class="sidebar-video" data-video-url="~/video/@Model.ProfileVideo5">
+                           
+                            <video class="sidebar-video" controls muted>
+                                <source src="~/video/@Model.ProfileVideo5" type="video/mp4">
+                                Your browser does not support the video tag.
+                            </video>
+                            <span> 5. @Model.ProfileVideo5</span>
+                        </div>
+                    }
+
+                    <!-- Repeat for ProfileVideo3, ProfileVideo4, and ProfileVideo5 if applicable -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    @section Scripts {
+        <script>
+            document.addEventListener("DOMContentLoaded", function () {
+                var acc = document.getElementsByClassName("accordion");
+                var i;
+
+                for (i = 0; i < acc.length; i++) {
+                    acc[i].addEventListener("click", function () {
+                        this.classList.toggle("active");
+                        this.parentElement.classList.toggle("active");
+
+                        var pannel = this.nextElementSibling;
+
+                        if (pannel.style.display === "block") {
+                            pannel.style.display = "none";
+                        } else {
+                            pannel.style.display = "block";
+                        }
+                    });
+                }
+            });
+        </script>
+    }
+
+
+    <script>
+        // Add event listener to the sidebarVideos element
+        document.getElementById('sidebarVideos').addEventListener('click', function (event) {
+            // Check if the clicked element is a video element with the class 'sidebar-video'
+            if (event.target && event.target.matches('.sidebar-video')) {
+                // Get the source URL of the clicked video
+                var videoUrl = event.target.querySelector('source').src;
+                // Update the main video source with the clicked video URL
+                document.getElementById('mainVideo').src = videoUrl;
+            }
+        });
+    </script>
+
+
+
+
+    <!-- Other Content -->
+    <div class="row mt-4">
+        <div class="col-md-8">
+            <div class="card">
+                <div class="card-body">
+                    <!-- Place your other content here -->
+                    <div class="other-content">
+                        <h1>Frequently Asked Questions</h1>
+
+                        <div class="faq">
+                            <button class="accordion">
+                                How can I access recorded lectures if I miss a live session?
+                                <i class="fa-solid fa-chevron-down"></i>
+                            </button>
+                            <div class="pannel">
+                                <p>
+                                    Recorded lectures are available on the online learning platform. You can find them in the "Recordings" section.
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="faq">
+                            <button class="accordion">
+                                What's the best way to reach out to my teacher for clarification on a topic?
+                                <i class="fa-solid fa-chevron-down"></i>
+                            </button>
+                            <div class="pannel">
+                                <p>
+                                    You can use the course discussion forum or send an email to your teacher. Office hours are also available for one-on-one discussions.
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="faq">
+                            <button class="accordion">
+                                Are presentation slides available before the lecture?
+                                <i class="fa-solid fa-chevron-down"></i>
+                            </button>
+                            <div class="pannel">
+                                <p>
+                                    Yes, presentation slides are usually uploaded to the course website in advance. You can find them in the "Resources" or "Materials" section.
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="faq">
+                            <button class="accordion">
+                                How do I submit my project, and what is the deadline?
+                                <i class="fa-solid fa-chevron-down"></i>
+                            </button>
+                            <div class="pannel">
+                                <p>
+                                    Project submission details are provided in the project guidelines. Deadlines are typically mentioned in the course syllabus or announced during lectures.
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="faq">
+                            <button class="accordion">
+                                When are doubt-clearing sessions held, and how can I join them?
+                                <i class="fa-solid fa-chevron-down"></i>
+                            </button>
+                            <div class="pannel">
+                                <p>
+                                    Doubt classes are scheduled weekly. Check the course calendar for timings. Join through the provided link or platform mentioned by the instructor.
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="faq">
+                            <button class="accordion">
+                                What topics will be covered in the upcoming test?
+                                <i class="fa-solid fa-chevron-down"></i>
+                            </button>
+                            <div class="pannel">
+                                <p>
+                                    Test topics are outlined in the syllabus. Additionally, the instructor may provide a study guide or announce specific chapters or concepts to focus on.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- JavaScript Libraries -->
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+<!-- Bootstrap JS -->
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
+
+
+</body>
+</html>
+
+
+
+
+
+@* <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - EdTech Application</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+
+    <!-- Add your custom stylesheets here -->
+    <style>
+        /* Custom Styles */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+        }
+
+        .container-fluid {
+            margin-top: 50px;
+        }
+
+        .row {
+            height: 100%;
+        }
+
+        .video-main {
+            position: relative;
+            padding-bottom: 56.25%; /* 16:9 aspect ratio */
+            height: 0;
+            overflow: hidden;
+        }
+
+            .video-main iframe {
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+            }
+
+        .sidebar {
+            background-color: #f0f0f0;
+            padding: 20px;
+        }
+
+            .sidebar .video-list-item {
+                margin-bottom: 10px;
+                cursor: pointer; /* Add cursor pointer for clickable items */
+            }
+
+        .card {
+            border: none;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .card-body {
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-8">
+                <div class="card">
+                    <div class="card-body">
+                        <!-- Main Video -->
+                        <div class="video-main mb-4">
+                            <iframe id="mainVideo" src="~/video/@Model.ProfileVideo1" frameborder="0" allowfullscreen></iframe>
+                        </div>
+                        <h2>Course Information</h2>
+                        <p><strong>Title:</strong> @Model.CourseTitle</p>
+                        <p><strong>Instructor:</strong> @Model.InstructorName</p>
+                        <p><strong>Description:</strong> @Model.Description</p>
+                        <p><strong>Duration:</strong> @Model.Duration</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <!-- Sidebar Video List -->
+                <div class="sidebar">
+                    <h3>Other Videos</h3>
+                    <!-- Additional Videos (if any) -->
+
+                        <div class="video-list-item" onclick="playMainVideo('@Model.ProfileVideo1')">
+                            <iframe src="~/video/@Model.ProfileVideo1" frameborder="0" sandbox></iframe>
+                        </div>
+
+                    @if (!string.IsNullOrEmpty(Model.ProfileVideo2) && Model.ProfileVideo2 != "Empty_Content")
+                    {
+                        <div class="video-list-item" onclick="playMainVideo('@Model.ProfileVideo2')">
+                            <iframe src="~/video/@Model.ProfileVideo2" frameborder="0" sandbox></iframe>
+                        </div>
+                    }
+                    @if (!string.IsNullOrEmpty(Model.ProfileVideo3) && Model.ProfileVideo3 != "Empty_Content")
+                    {
+                        <div class="video-list-item" onclick="playMainVideo('@Model.ProfileVideo3')">
+                            <iframe src="~/video/@Model.ProfileVideo3" frameborder="0" sandbox></iframe>
+                        </div>
+                    }
+
+                    <!-- Repeat for ProfileVideo3, ProfileVideo4, and ProfileVideo5 if applicable -->
+                </div>
+            </div>
+        </div>
+
+        <!-- Other Content -->
+        <div class="row mt-4">
+            <div class="col-md-8">
+                <div class="card">
+                    <div class="card-body">
+                        <!-- Place your other content here -->
+                        <div class="other-content">
+                            <!-- Other content goes here -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- JavaScript Libraries -->
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <!-- Bootstrap JS -->
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
+    <script>
+        function playMainVideo(videoUrl) {
+            document.getElementById('mainVideo').src = "~/video/" + videoUrl;
+        }
+    </script>
+</body>
+</html> *@
+
+
+
